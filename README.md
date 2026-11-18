@@ -1,16 +1,35 @@
-# impostor_futbolero
+# Impostor Futbolero ⚽
 
-A new Flutter project.
+A multiplayer football-themed social deduction game built with Flutter.
 
-## Getting Started
+## About the game
 
-This project is a starting point for a Flutter application.
+Impostor Futbolero is a mobile game where players participate in social deduction rounds with a football theme. Players interact, share clues, discuss and try to identify the impostor.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Multiplayer game experience
+- Game lobbies
+- Player roles and impostor mechanics
+- Clues and voting rounds
+- Results and game flow
+- Firebase integration
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+
+- Flutter
+- Dart
+- Firebase
+- Cloud Firestore
+
+## Project Status
+
+Playable project. Developed as a personal mobile game project.
+
+## Screenshots
+
+Screenshots of the application are available in this repository.
+
+## Developer
+
+Created by **AvocadoOfLeo**.
