@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "596130603317",
+    "firebase_url": "https://impostor-futbolero-e5be7-default-rtdb.firebaseio.com",
+    "project_id": "impostor-futbolero-e5be7",
+    "storage_bucket": "impostor-futbolero-e5be7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596130603317:android:d5d4e8a20bf33b36796c7c",
+        "android_client_info": {
+          "package_name": "com.avocado.impostor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHF3vOM9-eMx24jd8W2u29mEepAT10Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596130603317:android:e141467d5871da3a796c7c",
+        "android_client_info": {
+          "package_name": "com.avocado.impostor.impostor_futbolero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHF3vOM9-eMx24jd8W2u29mEepAT10Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596130603317:android:e024a32af0c45720796c7c",
+        "android_client_info": {
+          "package_name": "com.example.impostorfutbolero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHF3vOM9-eMx24jd8W2u29mEepAT10Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
